@@ -1,6 +1,6 @@
 <!-- Banner (add your own banner.png later) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mokarama/Mokarama/main/banner.png" alt="Profile Banner" />
+  <img src="https://avatars.githubusercontent.com/u/183295177?v=4" alt="Profile Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Mokarama Akter Shanta 👋</h1>
