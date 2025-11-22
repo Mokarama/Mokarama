@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 Hello! I'm **Mokarama**, a dedicated and passionate **Frontend Developer** from Bangladesh.  
 I love building modern, clean, and user-friendly web applications using **React**, **Firebase**, and API integrations.  
 I enjoy solving problems, learning new technologies, and turning ideas into real projects.
@@ -45,7 +45,7 @@ HTML · CSS · JavaScript · DOM · React · Firebase · API · Git · TailwindC
 ---
 
 ## 📫 Reach Me  
-📧 **mokarama... (Your email if you want to add?)**  
+📧 Email: **mokaramaaktershanta@gmail.com**  
 🔗 GitHub: **https://github.com/Mokarama**
 
 ---
