@@ -205,62 +205,12 @@ React • Express • MongoDB
 
 </table>
 
-# <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> GitHub Statistics & Analysis
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-## 📊 Repository Statistics
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
-
 </p>
 
 ---
@@ -353,25 +303,7 @@ YOUR_GITHUB_USERNAME/
 
 ---
 
-# ⚠️ Important
 
-সব জায়গায়
-
-```
-
-YOUR_GITHUB_USERNAME
-
-```
-
-replace করে তোমার GitHub Username বসাবে।
-
-Example
-
-```
-
-mokaramaaktershanta
-
-```
 
 ---
 
@@ -379,6 +311,6 @@ mokaramaaktershanta
 
 ## ⭐ Thanks for Visiting My Profile!
 
-### 💙 Happy Coding 🚀
+### 💙 Happy Coding 
 
 </div>
