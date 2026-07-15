@@ -45,11 +45,6 @@ mokaramaaktershanta@gmail.com
 
 </td>
 
-<td align="center">
-
-<img src="./assets/profile.png" width="260">
-
-</td>
 
 </tr>
 </table>
