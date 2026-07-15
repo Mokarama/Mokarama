@@ -138,7 +138,6 @@ mokaramaaktershanta@gmail.com
 </p>
 
 ---
-
 # 🏆 Certifications
 
 <table>
@@ -147,21 +146,21 @@ mokaramaaktershanta@gmail.com
 
 <td align="center">
 
-<img src="./assets/certificate1.png" width="300">
+<img src="./Img1.png" width="300"/>
 
 ### Complete Web Development
 
-Programming Hero
+**Programming Hero**
 
 </td>
 
 <td align="center">
 
-<img src="./assets/certificate2.png" width="300">
+<img src="./img2.jpg" width="300"/>
 
 ### Responsive Web Design
 
-freeCodeCamp
+**Programming Hero**
 
 </td>
 
@@ -171,21 +170,21 @@ freeCodeCamp
 
 <td align="center">
 
-<img src="./assets/certificate3.png" width="300">
+<img src="./expressjs.png" width="300"/>
 
-### JavaScript Algorithms
+### Express.js
 
-freeCodeCamp
+**Programming Hero**
 
 </td>
 
 <td align="center">
 
-<img src="./assets/certificate4.png" width="300">
+<img src="./reactjs.png" width="300"/>
 
-### React Development
+### React.js
 
-Programming Hero
+**Programming Hero**
 
 </td>
 
@@ -194,7 +193,6 @@ Programming Hero
 </table>
 
 ---
-
 # 🚀 Featured Projects
 
 <table>
