@@ -284,27 +284,6 @@ YOUR_GITHUB_USERNAME/
 ```
 
 ---
-
-# 📸 Image Replace Guide
-
-| Image | Location |
-|--------|----------|
-| Banner | `assets/banner.png` |
-| Profile Photo | `assets/profile.png` |
-| Coding GIF | `assets/coding.gif` |
-| Certificate 1 | `assets/certificate1.png` |
-| Certificate 2 | `assets/certificate2.png` |
-| Certificate 3 | `assets/certificate3.png` |
-| Certificate 4 | `assets/certificate4.png` |
-| Project 1 | `assets/project1.png` |
-| Project 2 | `assets/project2.png` |
-| Project 3 | `assets/project3.png` |
-| Project 4 | `assets/project4.png` |
-
----
-
-
-
 ---
 
 <div align="center">
