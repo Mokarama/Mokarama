@@ -146,11 +146,11 @@ mokaramaaktershanta@gmail.com
 
 <td align="center">
 
-<img src="./Img1.png" width="300"/>
+<img src="./web-design-level-3" width="300"/>
 
-### Complete Web Development
+### Complete Web Design Level-3
 
-**Programming Hero**
+**NSDA**
 
 </td>
 
@@ -158,9 +158,9 @@ mokaramaaktershanta@gmail.com
 
 <img src="./img2.jpg" width="300"/>
 
-### Responsive Web Design
+### IT Service Provider
 
-**Programming Hero**
+**Her Power Project**
 
 </td>
 
@@ -174,7 +174,7 @@ mokaramaaktershanta@gmail.com
 
 ### Express.js
 
-**Programming Hero**
+****
 
 </td>
 
@@ -184,7 +184,7 @@ mokaramaaktershanta@gmail.com
 
 ### React.js
 
-**Programming Hero**
+**Simpli Learn**
 
 </td>
 
