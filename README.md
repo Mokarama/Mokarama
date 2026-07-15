@@ -87,7 +87,7 @@ mokaramaaktershanta@gmail.com
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,go"/>
 
 </p>
 
@@ -103,35 +103,38 @@ mokaramaaktershanta@gmail.com
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
 
 </p>
 
-## Database
+## Database & ORM
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma"/>
 
 </p>
 
-## Deployment
+## Deployment & Hosting
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase"/>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render,firebase"/>
 
 </p>
 
-## Tools
+## Tools & Technologies
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm"/>
 
 </p>
 
 ---
+
+
+
 # 🏆 Certifications
 
 <table>
