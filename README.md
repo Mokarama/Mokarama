@@ -12,7 +12,6 @@
 
 # Hi 👋, I'm Mokarama Akter Shanta
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=2B90FF&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Web+Developer;React+%7C+Next.js+Developer;Node.js+%7C+Express.js+Developer;Always+Learning+New+Technologies" alt="Typing SVG"/>
 
 </div>
 
