@@ -193,55 +193,7 @@ mokaramaaktershanta@gmail.com
 </table>
 
 ---
-# 🚀 Featured Projects
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-<img src="./assets/project1.png">
-
-### MediStore
-
-Modern Full Stack Medicine E-commerce Platform
-
-**Tech Stack**
-
-React • Node • Express • MongoDB
-
-</td>
-
-<td width="50%">
-
-<img src="./assets/project2.png">
-
-### Portfolio Website
-
-Personal Portfolio
-
-Next.js • Tailwind CSS
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<img src="./assets/project3.png">
-
-### Event Management
-
-MERN Stack Project
-
-</td>
-
-<td width="50%">
-
-<img src="./assets/project4.png">
 
 ### Learning Management System
 
